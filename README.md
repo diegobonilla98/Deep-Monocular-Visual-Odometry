@@ -16,3 +16,11 @@ A mixture of traditional with new techniques for Visual Odometry and SLAM
 
 
 ~~As said it needs a good debugging to make it work. Also a profound understanding of the matter.~~
+
+
+Kinda working!
+
+I cahanged the pipeline to a 3D-to-3D point correspondences. A lot slower and not very accurate but way better.
+
+
+
