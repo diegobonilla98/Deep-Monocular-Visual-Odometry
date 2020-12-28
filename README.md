@@ -25,3 +25,9 @@ I cahanged the pipeline to a 3D-to-3D point correspondences. A lot slower and no
 
 ![](ezgif.com-video-to-gif.gif)
 
+
+### Possible Reasons of my failure
+
+- Scale factor problem but in a huge scale.
+- 3D estimation is not consisten (is an estimation for god's sake!).
+- My bad code.
