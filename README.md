@@ -21,7 +21,7 @@ A mixture of traditional with new techniques for Visual Odometry and SLAM
 
 ## Kinda working now!
 
-I cahanged the pipeline to a 3D-to-3D point correspondences. A lot slower and not very accurate but way better.
+I cahanged the pipeline to a 3D-to-3D point correspondences. A lot slower and not very accurate but way better. Not quite working amazingly but... I kinda suck.
 
 
 
